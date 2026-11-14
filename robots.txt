@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rolex878system.com/sitemap.xml
+Sitemap: https://rolex878system.vercel.app/sitemap.xml
